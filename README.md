@@ -1,3 +1,5 @@
+## Azure Function 
+
 # Problem: 
 Create an Azure ADF pipeline to copy multiple tables from Source Sql db to destination Sql db. In the article, one time sync changes were limited to only 100 max
 operations as Merge SQL statement stores changes in variable. How to meet requirements for bulk operations. 
